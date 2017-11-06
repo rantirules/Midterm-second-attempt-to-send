@@ -1,7 +1,4 @@
 
-// https://github.com/shiffman/OpenKinect-for-Processing
-// http://shiffman.net/p5/kinect/
-
 import org.openkinect.processing.*;
 
 // Kinect Library object
